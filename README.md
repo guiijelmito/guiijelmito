@@ -17,7 +17,7 @@
 
 Fascinado por tecnologia, sou um desenvolvedor em formação, atualmente estudando desenvolvimento web com HTML, CSS e JavaScript, análise de performance de algoritmos com Python e também estou estudando desenvolvimento de jogos com C# e Unity.
 
-Estou cursando o 3º período de Sistemas de Informação na Universidade Federal de Itajubá (UNIFEI). 
+Estou atualmente cursando o 3º período de Sistemas de Informação na Universidade Federal de Itajubá (UNIFEI). 
 
 <img alt="Logo da Unifei" src='https://portalpadrao.ufma.br/ineof/imagens/logo-unifei-oficial.png/@@images/image.png'>
 
