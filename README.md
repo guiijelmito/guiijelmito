@@ -15,9 +15,13 @@
     <img aliign="center" alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
 </div>
 
-Fascinado por tecnologia, sou um desenvolvedor em formação, atualmente estudando desenvolvimento web com HTML, CSS e JavaScript, análise de performance de algoritmos com Python e também estou estudando desenvolvimento de jogos com C# e Unity.
+Fascinado por tecnologia, sou um desenvolvedor em formação, atualmente estudando:
+- Desenvolvimento web com HTML, CSS, JavaScript e Reqact.js;
+- Análise de performance de algoritmos com Python;
+- Introdução a análise de dados
+- Banco de dados relacional 
 
-Estou atualmente cursando o 3º período de Sistemas de Informação na Universidade Federal de Itajubá (UNIFEI). 
+Estou atualmente cursando o 5º período de Sistemas de Informação na Universidade Federal de Itajubá (UNIFEI). 
 
 <img alt="Logo da Unifei" src='https://portalpadrao.ufma.br/ineof/imagens/logo-unifei-oficial.png/@@images/image.png'>
 
