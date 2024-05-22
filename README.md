@@ -14,6 +14,7 @@
     <img allign="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
     <img aliign="center" alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
 </div>
+<hr>
 
 Fascinado por tecnologia, sou um desenvolvedor em formação, atualmente estudando:
 - Desenvolvimento web com HTML, CSS, JavaScript e Reqact.js;
